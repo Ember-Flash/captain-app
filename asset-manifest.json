@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/captain-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/captain-app/static/js/main.d10b9ecf.chunk.js",
-    "main.js.map": "/captain-app/static/js/main.d10b9ecf.chunk.js.map",
+    "main.css": "/captain-app/static/css/main.fa44ef84.chunk.css",
+    "main.js": "/captain-app/static/js/main.c685ac20.chunk.js",
+    "main.js.map": "/captain-app/static/js/main.c685ac20.chunk.js.map",
     "runtime-main.js": "/captain-app/static/js/runtime-main.24937e89.js",
     "runtime-main.js.map": "/captain-app/static/js/runtime-main.24937e89.js.map",
     "static/js/2.fa0742d0.chunk.js": "/captain-app/static/js/2.fa0742d0.chunk.js",
@@ -10,14 +10,15 @@
     "static/js/3.031d03bc.chunk.js": "/captain-app/static/js/3.031d03bc.chunk.js",
     "static/js/3.031d03bc.chunk.js.map": "/captain-app/static/js/3.031d03bc.chunk.js.map",
     "index.html": "/captain-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/captain-app/static/css/main.a617e044.chunk.css.map",
+    "static/css/main.fa44ef84.chunk.css.map": "/captain-app/static/css/main.fa44ef84.chunk.css.map",
     "static/js/2.fa0742d0.chunk.js.LICENSE.txt": "/captain-app/static/js/2.fa0742d0.chunk.js.LICENSE.txt",
+    "static/media/EmberIcon.25f5918b.svg": "/captain-app/static/media/EmberIcon.25f5918b.svg",
     "static/media/logo.6ce24c58.svg": "/captain-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.24937e89.js",
     "static/js/2.fa0742d0.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d10b9ecf.chunk.js"
+    "static/css/main.fa44ef84.chunk.css",
+    "static/js/main.c685ac20.chunk.js"
   ]
 }
